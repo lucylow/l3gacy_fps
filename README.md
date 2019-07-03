@@ -1,9 +1,10 @@
 # L3GACY FPS
 
-* Anti-Cheat Detection for Game Streaming
+## Anti-Cheat Detection for Game Streaming
+
+## Tools
 * Stream-Proof 
 * Anti-cheat signature detection 
-* Humanizing settings 
 * FaceIT’s modified SMAC 
 * Turning on/off visuals 
 * Screenshot Blocker 
