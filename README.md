@@ -1,8 +1,8 @@
-# L3GACY FPS
+# L3GACY FPS &#x1F49B;
 
-## Anti-Cheat Detection for Game Streaming
+## Anti-Cheat Detection for Game Streaming &#x1F49B;
 
-## Tools
+## Tools &#x1F49B;
 * Stream-Proof 
 * Anti-cheat signature detection 
 * FaceIT’s modified SMAC 
